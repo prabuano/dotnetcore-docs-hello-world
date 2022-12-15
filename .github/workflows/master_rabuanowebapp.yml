@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'rabuanowebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A0DC809EDB0435C86EB16007E454D68 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_69C7BF7D8D1640829BCB99725F6D6333 }}
           package: .
